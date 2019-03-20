@@ -1,1 +1,1 @@
-null
+We intend to create a blockchain dependent system which would facilitate the sensitive information flow between the consumer and such companies in a much more sophisticated, monitored and secure manner. This would help in identification of a person without sharing of any sensitive information, and the consumer themselves have the control over how much information they want to allocate to the company desiring it. 
